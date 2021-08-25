@@ -15,6 +15,7 @@
  */
 module.exports = {
   module: {
+    // js文件配置
     rules: [
      {
       test: /\*.js$/,
